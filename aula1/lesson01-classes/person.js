@@ -7,6 +7,9 @@ var Person = /** @class */ (function () {
     Person.prototype.showAge = function (age) {
         console.log(this.name + " has " + age + " years old");
     };
+    Person.prototype.toString = function () {
+        return "Class Person, name " + this.name;
+    };
     return Person;
 }());
 exports.Person = Person;
