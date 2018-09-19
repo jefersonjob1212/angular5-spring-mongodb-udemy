@@ -13,3 +13,4 @@ Class
 var text = ['Hello', 'Teste'];
 var isEnabled = true;
 var text2 = ['Hello', 'World'];
+//# sourceMappingURL=inference.js.map
